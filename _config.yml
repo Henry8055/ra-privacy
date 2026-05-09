@@ -1,0 +1,9 @@
+title: RA Privacy Policy
+description: Privacy policy for RA – Site Machine Management
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
